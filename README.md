@@ -7,10 +7,7 @@
 <div align=center style="background-color: transparent;">
 	<img style="opacity: 100%;" width="80%" src="https://raw.githubusercontent.com/Toxicvirusmain/Toxicvirusmain/refs/heads/main/Xx.gif"/>
 </div>
-<div align=center style="background-color: transparent;">
-	<img alt="Stars" src="https://img.shields.io/github/stars/ac3ss0r?label=stars"/>
-	<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=acess0r"/>
-</div>
+
     
 ### My main activities are:
 
