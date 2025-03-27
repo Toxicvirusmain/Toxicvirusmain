@@ -2,7 +2,7 @@
  
  
  ### Hello there! 
- I'm a self-taught programmer and a reverse-engineer from Russia / Belarus. I have 6+ years experience of developing software in C/C++, Java, C#, Web and a few years in cracking and reversing software on various platforms.
+ I'm a self-taught programmer and a reverse-engineer from South Korea. I have 4+ years experience of developing software in C/C++, Java, C#, Web and a few years in cracking and reversing software on various platforms.
 
 <div align=center style="background-color: transparent;">
 	<img style="opacity: 200%;" width="80%" src="https://raw.githubusercontent.com/Toxicvirusmain/Toxicvirusmain/refs/heads/main/Xx.gif"/>
